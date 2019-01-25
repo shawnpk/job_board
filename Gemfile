@@ -16,6 +16,10 @@ gem 'devise'
 gem 'bulma-rails'
 gem 'simple_form'
 gem 'sidekiq'
+gem 'carrierwave', '~> 1.3', '>= 1.3.1'
+gem 'mini_magick', '~> 4.9', '>= 4.9.2'
+gem 'stripe', '~> 4.7'
+gem 'trix' 
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
